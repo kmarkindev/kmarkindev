@@ -7,7 +7,7 @@ Currently I'm...
 
 📫 How to reach me: kirya7788@list.ru
 
-Almost all of my repos have preview of the result and compiled binaries, so you can check them right now.
+Almost all of my repos have preview of the result and compiled binaries ready to download, so you can check them right now.
 
 ### Skills 🧠
 
