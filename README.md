@@ -10,27 +10,14 @@ Currently I'm...
 Almost all of my repos have preview of the result and compiled binaries ready to download, so you can check them right now.
 
 ### Skills 🧠
-
-- Game development:
   - C++ and STL, C#
   - CMake
   - OpenGL core, GLSL
   - Unity, Unreal Engine
-  - GLFW, GLM, ImGui, wxWidgets, EnTT, RTTR, GLAD, Assimp, STBI
+  - GLFW, GLM, ImGui, wxWidgets, EnTT, RTTR, GLAD, Assimp, STBI, Box2D
   - 3D/2D Math,
-  - GoogleTest
-
-- Web-development:
-  - Started working as a professional web developer in March 2020
-  - PHP 7.x.x+, Laravel
-  - JavaScript, JQuery, React, Webpack, Babel
-  - HTML, CSS, SASS/SCSS
-  - MySQL, MSSQL, SQLite
-  - Redis
-  - Elasticsearch
-  
-- Common:
-  - Git, Docker, Linux, VPS and DNS configuration
+  - GoogleTest,
+  - Git, Docker, Linux, VPS and DNS configuration,
   - CI/CD (Github Actions)
 
 <hr/>
