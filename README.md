@@ -10,7 +10,7 @@ Currently I'm...
 All of my public repos have preview of the result and compiled binaries ready to download, so you can check them right now.
 
 ### Skills 🧠
-  - C++ and STL, C#
+  - C++ and STL
   - CMake
   - OpenGL core, GLSL
   - Unity, Unreal Engine
