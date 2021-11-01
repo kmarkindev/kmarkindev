@@ -3,7 +3,7 @@
 Currently I'm...
 - 💼 working as a back-end developer (PHP)
 - 🌱 learning game development using C++ and all related stuff
-//- 🔭 going to switch from back-end to game development
+<!-- - 🔭 going to switch from back-end to game development -->
 
 📫 How to reach me: kirya7788@list.ru
 
