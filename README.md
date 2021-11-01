@@ -5,7 +5,7 @@ Currently I'm...
 - 🌱 learning game development using C++ and all related stuff
 <!-- - 🔭 going to switch from back-end to game development -->
 
-📫 How to reach me: kirya7788@list.ru
+📫 How to reach me: kmarkindev@gmail.com
 
 All of my public repos have previews and compiled binaries, so you can check them right now.
 
