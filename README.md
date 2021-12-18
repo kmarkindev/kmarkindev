@@ -6,5 +6,5 @@ Currently I'm...
 
 📫 How to reach me: kmarkindev@gmail.com
 
-I really like to dig into open source game engines and games as well as develop them or their features in my free time.
+I like to dig into open source game engines and games as well as develop them or their features in my free time.
 All of my pinned repos have previews and compiled binaries.
